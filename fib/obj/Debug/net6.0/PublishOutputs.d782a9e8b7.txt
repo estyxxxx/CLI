@@ -1,0 +1,5 @@
+C:\Users\user\source\repos\fib\fib\publish\fib.exe
+C:\Users\user\source\repos\fib\fib\publish\fib.dll
+C:\Users\user\source\repos\fib\fib\publish\fib.deps.json
+C:\Users\user\source\repos\fib\fib\publish\fib.runtimeconfig.json
+C:\Users\user\source\repos\fib\fib\publish\fib.pdb

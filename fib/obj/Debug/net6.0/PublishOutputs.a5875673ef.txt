@@ -1,0 +1,5 @@
+C:\Users\user\source\repos\fib\bublish\fib.exe
+C:\Users\user\source\repos\fib\bublish\fib.dll
+C:\Users\user\source\repos\fib\bublish\fib.deps.json
+C:\Users\user\source\repos\fib\bublish\fib.runtimeconfig.json
+C:\Users\user\source\repos\fib\bublish\fib.pdb
